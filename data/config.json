@@ -1,0 +1,17 @@
+{
+  "bot": {
+    "name": "Bot",
+    "activity": {
+      "type": "PLAYING",
+      "name": "Discord"
+    },
+    "status": "online",
+    "theme": "default"
+  },
+  "servers": {},
+  "prefixes": {
+    "default": "&",
+    "custom": {}
+  },
+  "language": "fr"
+} 
