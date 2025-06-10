@@ -58,10 +58,11 @@ TOKEN=votre_token_ici
 
 4. Configurez l'ID du Owner, dans le dossier `data`, `owners.json` : 
 
-````
+```
 {
   "owners": ["ID_ICI"]
 } 
+```
 
 5. Démarrez le bot :
 ```bash
