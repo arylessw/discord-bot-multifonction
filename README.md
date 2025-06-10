@@ -122,4 +122,4 @@ Pour toute question ou problème, n'hésitez pas à :
 
 ## 🙏 Remerciements
 
-Merci à tous les contributeurs qui ont participé au développement de ce bot ! 
+Merci à tous les contributeurs qui ont participé au développement de ce bot ! (Voici mon premier bot Discord que je publie, soyez donc indulgent.)
